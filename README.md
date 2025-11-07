@@ -9,3 +9,10 @@ Repo Which contain all the best documents I found while learning technical topic
 # Elastic Search
   Crash course for the beginneers Elastic stack
   - https://github.com/LisaHJung/Beginners-Crash-Course-to-Elastic-Stack-Series-Table-of-Contents
+
+# Design Patterns 
+  Builder Pattern
+  - https://medium.com/@guptasantosh327/mastering-the-builder-pattern-in-javascript-step-by-step-guide-861b54ddb34c
+
+  Top 7 Design Pattern every developer should know
+  - https://www.youtube.com/watch?v=BJatgOiiht4
